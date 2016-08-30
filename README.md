@@ -43,6 +43,7 @@ Things I made
 
 * spool_adapter_shim.* so that the longer arm designed to fit a 20mm extrusion will fit snug on 15mm extrusions.
 * lcd_mount_bushing.* so that the 3DR_LCD_Bracket_rev1.STL designed for larger bolt will work with M3 bolt.
+* kossel_retractable_helper.* so that the retractable z probe can be stowed directly at the back of the printer with a cool look like the frame braces.
 
 
 Links
